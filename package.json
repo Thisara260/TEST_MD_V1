@@ -1,13 +1,13 @@
 {
-  "name": "MALVIN XD",
+  "name": "Test MD",
   "version": "1.0.2",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name MALVIN-XD",
-    "stop": "pm2 stop MALVIN-XD",
-    "restart": "pm2 restart MALVIN-XD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Test-MD",
+    "stop": "pm2 stop Test-MD",
+    "restart": "pm2 restart Test-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "github:EdderBot02/bail",  
