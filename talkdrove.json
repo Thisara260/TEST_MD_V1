@@ -1,8 +1,8 @@
 
 {
-"bot-name": "MALVIN-XD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
-  "logo": "https://files.catbox.moe/juxfce.jpg",
+"bot-name": "Test-MD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Thisara Gimhana",
+  "logo": "https://i.pinimg.com/736x/f5/f7/4a/f5f74ae26480cd5b2635ed6a824f27bd.jpg",
   "keywords": ["bot"],
   "documentation-link": "https://malvinxd-pairsession.onrender.com/",
     "owner-verification":"malvink003@gmail.com",
@@ -18,13 +18,13 @@
     "OWNER_NUMBER": {
       "description": "Enter owner number",
       "required": true,
-      "value": "263714757857"
+      "value": "94704198014"
       
        },
       "TIMEZONE": {
       "description": "Enter country timezone",
       "required": true,
-      "value": "Africa/Harare"
+      "value": "COLOMBO"
 
     }  
   }
